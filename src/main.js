@@ -1,3 +1,6 @@
-const colors = ['red', 'blue', 'green', 'black'];
 
-console.log(colors);
+const colors = ['Red', 'Blue', 'Green', 'Yellow'];
+
+colors.forEach(color => {
+    console.log(color);
+});

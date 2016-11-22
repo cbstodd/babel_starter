@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":[],"mappings":";;AACA,IAAM,SAAS,CAAC,KAAD,EAAQ,MAAR,EAAgB,OAAhB,EAAyB,QAAzB,CAAf;;AAEA,OAAO,OAAP,CAAe,iBAAS;AACpB,YAAQ,GAAR,CAAY,KAAZ;AACH,CAFD","file":"main-compiled.js","sourcesContent":["\nconst colors = ['Red', 'Blue', 'Green', 'Yellow'];\n\ncolors.forEach(color => {\n    console.log(color);\n});"]}
