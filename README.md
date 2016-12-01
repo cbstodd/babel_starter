@@ -4,6 +4,7 @@ with system.js
 
 to use:
 
+   download file     
 1. `git clone git@github.com:cbstodd/babel_starter.git`
     
     install dependencies
