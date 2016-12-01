@@ -4,17 +4,21 @@ with system.js
 
 to use:
 
-   download file     
-1. `git clone git@github.com:cbstodd/babel_starter.git`
-    
-   install dependencies
-2. `npm install` 
+download file     
 
-   runs babel watcher
-3. `run npm build`
+$ `git clone git@github.com:cbstodd/babel_starter.git`
+    
+install dependencies
+
+$ `npm install` 
+
+runs babel watcher
+
+$ `run npm build`
  
-   starts server
-4. `npm start` 
+starts server
+
+$ `npm start` 
 
 to rename the git repo to your own:
 `git remote set-url origin https://github.com/YOUR_USERNAME/YourRepoName.git`
