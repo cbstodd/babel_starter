@@ -8,15 +8,23 @@ download file
 
 $ `git clone git@github.com:cbstodd/babel_starter.git`
     
-install dependencies
+rename file:
+
+$ `mv babel_starter new_project_name`
+
+Change directory into project:
+
+$ `cd new_project_name`
+
+install dependencies:
 
 $ `npm install` 
 
-runs babel watcher
+runs babel watcher:
 
-$ `run npm build`
+$ `npm run build`
  
-starts server
+starts server:
 
 $ `npm start` 
 
